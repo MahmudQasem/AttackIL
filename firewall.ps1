@@ -1,1 +1,0 @@
-netsh firewall show state

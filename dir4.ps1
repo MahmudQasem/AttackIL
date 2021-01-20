@@ -1,1 +1,0 @@
-dir -Force c:/users/$Env:username/Documents
